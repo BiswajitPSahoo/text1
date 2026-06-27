@@ -6,6 +6,8 @@ package text1;
 public class Greet {
 
     public static void main(String args[]){
-        System.out.println("Hello everyone!");    
+        System.out.println("Hello everyone!");
+        
+        System.out.println("Hii");
     }
 }
