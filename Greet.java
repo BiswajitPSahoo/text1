@@ -9,5 +9,7 @@ public class Greet {
         System.out.println("Hello everyone!");
         
         System.out.println("Hii");
+
+        System.out.println(String args[]);
     }
 }
